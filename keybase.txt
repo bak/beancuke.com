@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/beancuke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://beancuke.com
+  * I am beancuke (https://keybase.io/beancuke) on keybase.
+  * I have a public key ASDH_N3C6zg4PAX3I2x6Pf7YkBZ5Ag5OaCYDkdv8hgEGEQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c7fcddc2eb38383c05f7236c7a3dfed8901679020e4e68260391dbfc860106110a",
+            "host": "keybase.io",
+            "kid": "0120c7fcddc2eb38383c05f7236c7a3dfed8901679020e4e68260391dbfc860106110a",
+            "uid": "0be1d597d761b4d32c393f0000a1b500",
+            "username": "beancuke"
+        },
+        "service": {
+            "hostname": "beancuke.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486691921,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486691913,
+        "hash": "2f5cc1882f478d22c9ab58635a6222eb02c870f973ad5d3ef6cb808a08d7542fefeb1033c3af116298644c8bb52c1430b70982eb9dc6e660be93d2d150c79c65",
+        "seqno": 865325
+    },
+    "prev": "dbffd2c69b0780e395f47057cf07e501b7ad5a99ddb65a04cfd1ac581331fdb8",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx/zdwus4ODwF9yNsej3+2JAWeQIOTmgmA5Hb/IYBBhEKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzdmY2RkYzJlYjM4MzgzYzA1ZjcyMzZjN2EzZGZlZDg5MDE2NzkwMjBlNGU2ODI2MDM5MWRiZmM4NjAxMDYxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzdmY2RkYzJlYjM4MzgzYzA1ZjcyMzZjN2EzZGZlZDg5MDE2NzkwMjBlNGU2ODI2MDM5MWRiZmM4NjAxMDYxMTBhIiwidWlkIjoiMGJlMWQ1OTdkNzYxYjRkMzJjMzkzZjAwMDBhMWI1MDAiLCJ1c2VybmFtZSI6ImJlYW5jdWtlIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiZWFuY3VrZS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg2NjkxOTIxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODY2OTE5MTMsImhhc2giOiIyZjVjYzE4ODJmNDc4ZDIyYzlhYjU4NjM1YTYyMjJlYjAyYzg3MGY5NzNhZDVkM2VmNmNiODA4YTA4ZDc1NDJmZWZlYjEwMzNjM2FmMTE2Mjk4NjQ0YzhiYjUyYzE0MzBiNzA5ODJlYjlkYzZlNjYwYmU5M2QyZDE1MGM3OWM2NSIsInNlcW5vIjo4NjUzMjV9LCJwcmV2IjoiZGJmZmQyYzY5YjA3ODBlMzk1ZjQ3MDU3Y2YwN2U1MDFiN2FkNWE5OWRkYjY1YTA0Y2ZkMWFjNTgxMzMxZmRiOCIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAfU1WkvNI+qHc+Nsi615OKFrmRq5tlz8V2mi3JrvonVUm3V2MLgTchL96AXfcWTC4fpztCxR/kSZvYJVf6OuoCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgnQK6yWa5etailXtvbmtRZG+IFOSPpXgvCASTYal6OZijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/beancuke
+
+==================================================================
